@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 PAWTRACE</h3>
+      <h3><a href="https://github.com/laseyae07-cmd/pawtrace">🐾 PAWTRACE</a></h3>
       Full-stack web app that helps reunite lost pets with their owners.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ KMC City Event Management Platform</h3>
+      <h3><a href="https://github.com/laseyae07-cmd/KMC-City-Event-Management-Platform">🏛️ KMC City Event Management Platform</a></h3>
       Service-oriented event system for the Kandy Municipal Council with RESTful APIs and JWT authentication.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩸 LifeLink SL</h3>
+      <h3><a href="https://github.com/laseyae07-cmd/REPO">🩸 LifeLink SL</a></h3>
       Blood and organ donation coordination system. I contributed as <b>frontend developer and tester</b>.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -89,7 +89,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🖨️ PrintXpress Mobile App</h3>
+      <h3><a href="https://github.com/laseyae07-cmd/printxpress-mobile-app">🖨️ PrintXpress Mobile App</a></h3>
       Native Android app for a digital printing service with order placement and local SQLite storage.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -105,8 +105,6 @@
     </td>
   </tr>
 </table>
-
-> 💡 Tip: link each project title to its repo, e.g. `<h3><a href="https://github.com/laseyae07-cmd/REPO">🐾 PAWTRACE</a></h3>`
 
 ---
 
