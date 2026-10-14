@@ -22,6 +22,12 @@ I am a Software Engineering undergraduate with a strong foundation in OOP, datab
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laseyae07-cmd&show_icons=true&theme=radical" alt="Laseya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laseyae07-cmd&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ### 🚀 Featured Projects
 - **PAWTRACE:** A full-stack web application designed to help reunite lost pets with their owners, built using React, TypeScript, Node.js, Express.js, and PostgreSQL.
 - **KMC City Event Management Platform:** A service-oriented event management system for the Kandy Municipal Council featuring RESTful APIs and JWT-based authentication, developed with C#, ASP.NET Core Web API, MVC, and SQL Server.
