@@ -9,11 +9,18 @@ I am a Software Engineering undergraduate with a strong foundation in OOP, datab
 - 📫 How to reach me: [laseyae07@gmail.com](mailto:laseyae07@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/laseya-ekanayake-956b25394).
 
 ### 🛠️ Tech Stack & Tools
-- **Programming Languages:** C++, Java, JavaScript, PHP, Python, C#
-- **Web & Mobile:** HTML, CSS, React, Node.js, Android Studio
-- **Databases:** MySQL, SQLite, SQL, MongoDB, PostgreSQL
-- **QA & Testing:** Manual testing, bug reporting, test case design, functional & regression testing
-- **Tools:** Git, GitHub, VS Code, Figma, XAMPP, draw.io
+**Languages & Frameworks:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Databases & Tools:**
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🚀 Featured Projects
 - **PAWTRACE:** A full-stack web application designed to help reunite lost pets with their owners, built using React, TypeScript, Node.js, Express.js, and PostgreSQL.
