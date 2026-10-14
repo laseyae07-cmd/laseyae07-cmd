@@ -1,4 +1,9 @@
 # Hi there, I'm Laseya Ekanayake! 👋
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineering+Student;Aspiring+QA%2FDev+Intern;Java%2C+C%23+%26+React+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 I am a Software Engineering undergraduate with a strong foundation in OOP, databases, and system analysis, currently seeking a Software Development or QA internship to gain real industry experience. 
 
