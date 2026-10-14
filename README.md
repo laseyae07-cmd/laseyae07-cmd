@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/laseyae07-cmd/REPO">🩸 LifeLink SL</a></h3>
+      <h3><a href="https://github.com/laseyae07-cmd/LifeLink-SL">🩸 LifeLink SL</a></h3>
       Blood and organ donation coordination system. I contributed as <b>frontend developer and tester</b>.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>✈️ GlobeTrek Adventures</h3>
+      <h3><a href="https://github.com/laseyae07-cmd/globetrek-adventures-website">✈️ GlobeTrek Adventures</a></h3>
       Responsive travel management website with travel packages and bookings.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
